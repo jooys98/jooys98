@@ -6,5 +6,4 @@
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Lo5er&show_icons=true&theme=radical)
 
 
-![최다 사용 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Lo5er&layout=compact&theme=radical)
 
