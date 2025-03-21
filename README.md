@@ -1,7 +1,5 @@
-안녕하세요, 음악의 선율과 코드의 조화를 이해하는 개발자 주윤수입니다. 
 
-작곡이라는 창의적 세계에서 시작해 백엔드 개발의 논리적 구조에 매료되어 새로운 여정을 시작했습니다.
-
+지식을 기반으로 사용자에게 더 재밌고 혁신적인 서비스를 제공하고 싶은 신입 백엔드 개발자 입니다.
 
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=Lo5er&show_icons=true&theme=radical)
 
